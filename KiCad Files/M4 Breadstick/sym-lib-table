@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name Adafruit_ItsyBitsy_M4-eagle-import)(type Legacy)(uri ${KIPRJMOD}/Adafruit_ItsyBitsy_M4-eagle-import.lib)(options "")(descr ""))
+  (lib (name M4-Breadstick-rescue)(type Legacy)(uri "${KIPRJMOD}/M4 Breadstick-rescue.lib")(options "")(descr ""))
+)
