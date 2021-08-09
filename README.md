@@ -5,11 +5,40 @@ The M4-Breadstick is an adaptation of Adafruit's ItsyBitsy M4 Express; details a
 ### Design Goal
 Adapt a modern development board to a form factor which better compliments breadboard prototyping by reducing the number, length, and crossing of jumper-wires.
 
+### Pictures
 <a href="Examples/7. Many Buttons/"><img src="Examples/7. Many Buttons/IMG_8316.JPG?raw=true" width="500px"><br/>
 <a href="Examples/3. Potentiometer/"><img src="Examples/3. Potentiometer/Pots A1 A20.JPG?raw=true" width="500px"><br/>
 <a href="Examples/6. Many Pots/"><img src="Examples/6. Many Pots/IMG_3270.jpg?raw=true" width="500px"><br/>
 <a href="Examples/5. Dual I2C Display/"><img src="Examples/5. Dual I2C Display/IMG_3248.png?raw=true" width="500px"><br/>
 
+### Videos
+[![M4-Breadstick Blink Demo](https://img.youtube.com/vi/jlcFvwoJDTA/0.jpg)](https://www.youtube.com/watch?v=jlcFvwoJDTA)
+
+[M4-Breadstick Blink Demo](https://www.youtube.com/watch?v=jlcFvwoJDTA)
+  
+[![M4-Breadstick Dot-Star Compatible (Clock+Data) RGB LED Strip Demo](https://img.youtube.com/vi/AKLR_5SblVk/0.jpg)](https://www.youtube.com/watch?v=AKLR_5SblVk)
+
+[M4-Breadstick Dot-Star Compatible (Clock+Data) RGB LED Strip Demo](https://www.youtube.com/watch?v=AKLR_5SblVk)
+  
+[![M4-Breadstick Potentiometer and Bar-Graph Demo](https://img.youtube.com/vi/UZgDf5CVg4E/0.jpg)](https://www.youtube.com/watch?v=UZgDf5CVg4E)
+
+[M4-Breadstick Potentiometer and Bar-Graph Demo](https://www.youtube.com/watch?v=UZgDf5CVg4E)
+  
+[![M4-Breadstick Button Demo](https://img.youtube.com/vi/j13e2EzxIbE/0.jpg)](https://www.youtube.com/watch?v=j13e2EzxIbE)
+
+[M4-Breadstick Button Demo](https://www.youtube.com/watch?v=j13e2EzxIbE)
+  
+[![M4-Breadstick Dual I2C Demo](https://img.youtube.com/vi/ZbwT2mgDPAQ/0.jpg)](https://www.youtube.com/watch?v=ZbwT2mgDPAQ)
+
+[M4-Breadstick Dual I2C Demo](https://www.youtube.com/watch?v=ZbwT2mgDPAQ)
+  
+[![M4-Breadstick Many Buttons Demo](https://img.youtube.com/vi/LMG715chEnE/0.jpg)](https://www.youtube.com/watch?v=LMG715chEnE)
+
+[M4-Breadstick Many Buttons Demo](https://www.youtube.com/watch?v=LMG715chEnE)
+  
+[![M4-Breadstick Motor Driver Demo](https://img.youtube.com/vi/vfRkdXOv09Y/0.jpg)](https://www.youtube.com/watch?v=vfRkdXOv09Y)
+
+[M4-Breadstick Motor Driver Demo](https://www.youtube.com/watch?v=vfRkdXOv09Y)
 
 ## Adafruit ItsyBitsy M4 Express PCB
 
