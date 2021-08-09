@@ -1,7 +1,8 @@
-## Blink Demo
+## Motor Driver Demo
 ### Description
-Blinks the red LED on pin D21.
+Demonstrates the vertical support board concept using a motor driver.
 
-[![M4-Breadstick Blink Demo](https://img.youtube.com/vi/jlcFvwoJDTA/0.jpg)](https://www.youtube.com/watch?v=jlcFvwoJDTA)
+### Video
+[![M4-Breadstick Motor Driver Demo](https://img.youtube.com/vi/vfRkdXOv09Y/0.jpg)](https://www.youtube.com/watch?v=vfRkdXOv09Y)
 
-https://www.youtube.com/watch?v=jlcFvwoJDTA
+https://www.youtube.com/watch?v=vfRkdXOv09Y

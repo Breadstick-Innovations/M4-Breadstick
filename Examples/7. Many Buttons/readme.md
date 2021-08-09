@@ -1,7 +1,8 @@
-## Blink Demo
+## Many Button Demo
 ### Description
-Blinks the red LED on pin D21.
+Demonstrates how quick and easy it is to connect many buttons to an M4-Breadstick.
 
-[![M4-Breadstick Blink Demo](https://img.youtube.com/vi/jlcFvwoJDTA/0.jpg)](https://www.youtube.com/watch?v=jlcFvwoJDTA)
+### Video
+[![M4-Breadstick Many Buttons Demo](https://img.youtube.com/vi/LMG715chEnE/0.jpg)](https://www.youtube.com/watch?v=LMG715chEnE)
 
-https://www.youtube.com/watch?v=jlcFvwoJDTA
+https://www.youtube.com/watch?v=LMG715chEnE
