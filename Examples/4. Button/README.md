@@ -1,8 +1,8 @@
-## Blink Demo
+## Button Demo
 ### Description
-Blinks the red LED on pin D21.
+Demonstrates the ease of connecting a button and mapping its input to an addressable RGB LED.
 
 ### Video
-[![M4-Breadstick Blink Demo](https://img.youtube.com/vi/jlcFvwoJDTA/0.jpg)](https://www.youtube.com/watch?v=jlcFvwoJDTA)
+[![M4-Breadstick Button Demo](https://img.youtube.com/vi/j13e2EzxIbE/0.jpg)](https://www.youtube.com/watch?v=j13e2EzxIbE)
 
-https://www.youtube.com/watch?v=jlcFvwoJDTA
+https://www.youtube.com/watch?v=j13e2EzxIbE
