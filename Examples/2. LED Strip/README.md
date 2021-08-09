@@ -7,6 +7,6 @@ LEDSTRIP_DATA
 LEDSTRIP_CLOCK
 
 ### Video
-[![M4-Breadstick Blink Demo](https://img.youtube.com/vi/AKLR_5SblVk/0.jpg)](https://www.youtube.com/watch?v=AKLR_5SblVk)
+[![M4-Breadstick Dot-Star Compatible (Clock+Data) RGB LED Strip Demo](https://img.youtube.com/vi/AKLR_5SblVk/0.jpg)](https://www.youtube.com/watch?v=AKLR_5SblVk)
 
 https://www.youtube.com/watch?v=AKLR_5SblVk
