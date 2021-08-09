@@ -16,7 +16,7 @@ The silkscreen shown in the video has a flaw, the labeled I2C pins did not actua
 
 
 
-
+### Video
 [![M4-Breadstick Dual I2C Demo](https://img.youtube.com/vi/ZbwT2mgDPAQ/0.jpg)](https://www.youtube.com/watch?v=ZbwT2mgDPAQ)
 
 https://www.youtube.com/watch?v=ZbwT2mgDPAQ
