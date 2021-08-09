@@ -4,8 +4,8 @@ The M4-Breadstick is an adaptation of Adafruit's ItsyBitsy M4 Express; details a
 
 ### Design Goal
 Adapt a modern development board to a form factor which better compliments breadboard prototyping by reducing the number, length, and overlapping of jumper-wires.
-<img src="Examples/7. Many Buttons/IMG_8316.jpg?raw=true" width="500px">
-
+<a href=""><img src="Examples/7. Many Buttons/IMG_8316.jpg?raw=true" width="500px">
+<br/>
 
 
 
