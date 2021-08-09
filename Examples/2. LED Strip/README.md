@@ -1,7 +1,10 @@
-## Blink Demo
+## LED Strip Demo
 ### Description
-Blinks the red LED on pin D21.
+The LED strip consists of 24 LC8822-2020 adressable RGB LEDs that have dedicated Clock and Data pins and are compatible with Adafruit's DotStar library.
+### Pins
+LEDSTRIP_DATA
+LEDSTRIP_CLOCK
 
-[![M4-Breadstick Blink Demo](https://img.youtube.com/vi/jlcFvwoJDTA/0.jpg)](https://www.youtube.com/watch?v=jlcFvwoJDTA)
+[!M4-Breadstick Dot-Star Compatible (Clock+Data) RGB LED Strip Demo](https://img.youtube.com/vi/AKLR_5SblVk/0.jpg)](https://www.youtube.com/watch?v=AKLR_5SblVk)
 
-https://www.youtube.com/watch?v=jlcFvwoJDTA
+https://www.youtube.com/watch?v=AKLR_5SblVk
