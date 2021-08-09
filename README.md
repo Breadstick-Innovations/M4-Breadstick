@@ -12,33 +12,33 @@ Adapt a modern development board to a form factor which better compliments bread
 <a href="Examples/5. Dual I2C Display/"><img src="Examples/5. Dual I2C Display/IMG_3248.png?raw=true" width="500px"><br/>
 
 ### Videos
-[![M4-Breadstick Blink Demo](https://img.youtube.com/vi/jlcFvwoJDTA/0.jpg)](https://www.youtube.com/watch?v=jlcFvwoJDTA)
+[![M4-Breadstick Blink Demo](https://img.youtube.com/vi/jlcFvwoJDTA/0.jpg)](https://www.youtube.com/watch?v=jlcFvwoJDTA&list=PLvRCEIc8WROOZ6hJWuxPTIbie-fAAK2j3)
 
-[M4-Breadstick Blink Demo](https://www.youtube.com/watch?v=jlcFvwoJDTA)
+[M4-Breadstick Blink Demo](https://www.youtube.com/watch?v=jlcFvwoJDTA&list=PLvRCEIc8WROOZ6hJWuxPTIbie-fAAK2j3)
   
-[![M4-Breadstick Dot-Star Compatible (Clock+Data) RGB LED Strip Demo](https://img.youtube.com/vi/AKLR_5SblVk/0.jpg)](https://www.youtube.com/watch?v=AKLR_5SblVk)
+[![M4-Breadstick Dot-Star Compatible (Clock+Data) RGB LED Strip Demo](https://img.youtube.com/vi/AKLR_5SblVk/0.jpg)](https://www.youtube.com/watch?v=AKLR_5SblVk&list=PLvRCEIc8WROOZ6hJWuxPTIbie-fAAK2j3&index=2)
 
-[M4-Breadstick Dot-Star Compatible (Clock+Data) RGB LED Strip Demo](https://www.youtube.com/watch?v=AKLR_5SblVk)
+[M4-Breadstick Dot-Star Compatible (Clock+Data) RGB LED Strip Demo](https://www.youtube.com/watch?v=AKLR_5SblVk&list=PLvRCEIc8WROOZ6hJWuxPTIbie-fAAK2j3&index=2)
   
-[![M4-Breadstick Potentiometer and Bar-Graph Demo](https://img.youtube.com/vi/UZgDf5CVg4E/0.jpg)](https://www.youtube.com/watch?v=UZgDf5CVg4E)
+[![M4-Breadstick Potentiometer and Bar-Graph Demo](https://img.youtube.com/vi/UZgDf5CVg4E/0.jpg)](https://www.youtube.com/watch?v=UZgDf5CVg4E&list=PLvRCEIc8WROOZ6hJWuxPTIbie-fAAK2j3&index=3)
 
-[M4-Breadstick Potentiometer and Bar-Graph Demo](https://www.youtube.com/watch?v=UZgDf5CVg4E)
+[M4-Breadstick Potentiometer and Bar-Graph Demo](https://www.youtube.com/watch?v=UZgDf5CVg4E&list=PLvRCEIc8WROOZ6hJWuxPTIbie-fAAK2j3&index=3)
   
-[![M4-Breadstick Button Demo](https://img.youtube.com/vi/j13e2EzxIbE/0.jpg)](https://www.youtube.com/watch?v=j13e2EzxIbE)
+[![M4-Breadstick Button Demo](https://img.youtube.com/vi/j13e2EzxIbE/0.jpg)](https://www.youtube.com/watch?v=j13e2EzxIbE&list=PLvRCEIc8WROOZ6hJWuxPTIbie-fAAK2j3&index=4)
 
-[M4-Breadstick Button Demo](https://www.youtube.com/watch?v=j13e2EzxIbE)
+[M4-Breadstick Button Demo](https://www.youtube.com/watch?v=j13e2EzxIbE&list=PLvRCEIc8WROOZ6hJWuxPTIbie-fAAK2j3&index=4)
   
-[![M4-Breadstick Dual I2C Demo](https://img.youtube.com/vi/ZbwT2mgDPAQ/0.jpg)](https://www.youtube.com/watch?v=ZbwT2mgDPAQ)
+[![M4-Breadstick Dual I2C Demo](https://img.youtube.com/vi/ZbwT2mgDPAQ/0.jpg)](https://www.youtube.com/watch?v=ZbwT2mgDPAQ&list=PLvRCEIc8WROOZ6hJWuxPTIbie-fAAK2j3&index=5)
 
-[M4-Breadstick Dual I2C Demo](https://www.youtube.com/watch?v=ZbwT2mgDPAQ)
+[M4-Breadstick Dual I2C Demo](https://www.youtube.com/watch?v=ZbwT2mgDPAQ&list=PLvRCEIc8WROOZ6hJWuxPTIbie-fAAK2j3&index=5)
   
-[![M4-Breadstick Many Buttons Demo](https://img.youtube.com/vi/LMG715chEnE/0.jpg)](https://www.youtube.com/watch?v=LMG715chEnE)
+[![M4-Breadstick Many Buttons Demo](https://img.youtube.com/vi/LMG715chEnE/0.jpg)](https://www.youtube.com/watch?v=LMG715chEnE&list=PLvRCEIc8WROOZ6hJWuxPTIbie-fAAK2j3&index=6)
 
-[M4-Breadstick Many Buttons Demo](https://www.youtube.com/watch?v=LMG715chEnE)
+[M4-Breadstick Many Buttons Demo](https://www.youtube.com/watch?v=LMG715chEnE&list=PLvRCEIc8WROOZ6hJWuxPTIbie-fAAK2j3&index=6)
   
-[![M4-Breadstick Motor Driver Demo](https://img.youtube.com/vi/vfRkdXOv09Y/0.jpg)](https://www.youtube.com/watch?v=vfRkdXOv09Y)
+[![M4-Breadstick Motor Driver Demo](https://img.youtube.com/vi/vfRkdXOv09Y/0.jpg)](https://www.youtube.com/watch?v=vfRkdXOv09Y&list=PLvRCEIc8WROOZ6hJWuxPTIbie-fAAK2j3&index=7)
 
-[M4-Breadstick Motor Driver Demo](https://www.youtube.com/watch?v=vfRkdXOv09Y)
+[M4-Breadstick Motor Driver Demo](https://www.youtube.com/watch?v=vfRkdXOv09Y&list=PLvRCEIc8WROOZ6hJWuxPTIbie-fAAK2j3&index=7)
 
 ## Adafruit ItsyBitsy M4 Express PCB
 
