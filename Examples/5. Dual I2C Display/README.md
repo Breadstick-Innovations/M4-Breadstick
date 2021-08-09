@@ -20,3 +20,19 @@ The silkscreen shown in the video has a flaw, the labeled I2C pins did not actua
 [![M4-Breadstick Dual I2C Demo](https://img.youtube.com/vi/ZbwT2mgDPAQ/0.jpg)](https://www.youtube.com/watch?v=ZbwT2mgDPAQ)
 
 https://www.youtube.com/watch?v=ZbwT2mgDPAQ
+
+
+## OLED Display Mod
+<a href=""><img src="Display Mod/IMG_8262.JPG?raw=true" width="500px"><br/>
+<a href=""><img src="Display Mod/IMG_8263.JPG?raw=true" width="500px"><br/>
+<a href=""><img src="Display Mod/IMG_8264.JPG?raw=true" width="500px"><br/>
+<a href=""><img src="Display Mod/IMG_8265.JPG?raw=true" width="500px"><br/>
+<a href=""><img src="Display Mod/IMG_8266.JPG?raw=true" width="500px"><br/>
+<a href=""><img src="Display Mod/IMG_8267.JPG?raw=true" width="500px"><br/>
+<a href=""><img src="Display Mod/IMG_8268.JPG?raw=true" width="500px"><br/>
+<a href=""><img src="Display Mod/IMG_8269.JPG?raw=true" width="500px"><br/>
+<a href=""><img src="Display Mod/IMG_8270.JPG?raw=true" width="500px"><br/>
+<a href=""><img src="Display Mod/IMG_8272.JPG?raw=true" width="500px"><br/>
+<a href=""><img src="Display Mod/IMG_8273.JPG?raw=true" width="500px"><br/>
+<a href=""><img src="Display Mod/IMG_8274.JPG?raw=true" width="500px"><br/>
+<a href=""><img src="Display Mod/IMG_8275.JPG?raw=true" width="500px"><br/>
