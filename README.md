@@ -4,7 +4,7 @@ The below text is from the original reference design.
 
 ## Adafruit ItsyBitsy M4 Express PCB
 
-<a href="http://www.adafruit.com/products/3800"><img src="assets/image.jpg?raw=true" width="500px"><br/>
+<a href="http://www.adafruit.com/products/3800"><img src="Adafruit Assets/image.jpg?raw=true" width="500px"><br/>
 Click here to purchase one from the Adafruit shop</a>
 
 PCB files for the Adafruit ItsyBitsy M4 Express. PCB format is EagleCAD schematic and board layout
