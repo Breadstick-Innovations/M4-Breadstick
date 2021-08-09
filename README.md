@@ -1,6 +1,6 @@
 ## M4-Breadstick
 ### Acknowledgment
-The M4-Breadstick is an adaptation of Adafruit's ItsyBitsy M4 Express; details about that board can be found below.
+The M4-Breadstick is an adaptation of Adafruit's ItsyBitsy M4 Express; details about their board can be found below.
 
 ### Design Goal
 Adapt a modern development board to a form factor which better compliments breadboard prototyping by reducing the number, length, and overlapping of jumper-wires.
