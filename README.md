@@ -1,12 +1,19 @@
-## M4-Breadstick
-### Crowd Supply Page Coming Soon!
-### Entered In The 2021 Hackaday Prize - Challenge 3: Reimagine Supportive Tech
+# M4-Breadstick
 
-### Acknowledgment
+
+## [Crowd Supply Campaign](https://www.crowdsupply.com/breadstick-innovations/m4-breadstick)
+Our Pre-Campagin page is now live! Be sure to [Subscribe](https://www.crowdsupply.com/breadstick-innovations/m4-breadstick) for campaign updates!
+
+## 2021 Hackaday Prize
+Challenge 3: Reimagine Supportive Tech
+
+## Adafruit Attribution
 The M4-Breadstick is an adaptation of Adafruit's ItsyBitsy M4 Express; details about their board can be found [here](https://github.com/adafruit/Adafruit-ItsyBitsy-M4-Express-PCB).
 
-### Design Goal
-Adapt a modern development board to a form factor which better compliments breadboard prototyping by reducing the number, length, and crossing of jumper-wires.
+
+## Design
+### Goal
+* Adapt a modern development board to a form factor which better compliments breadboard prototyping by reducing the number, length, and crossing of jumper-wires.
 
 <insert more about the design shape and potential use cases>
 
