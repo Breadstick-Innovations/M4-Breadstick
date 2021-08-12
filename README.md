@@ -2,7 +2,7 @@
 
 
 ## [Crowd Supply Campaign](https://www.crowdsupply.com/breadstick-innovations/m4-breadstick)
-Our Pre-Campaign page is now live! Be sure to [Subscribe](https://www.crowdsupply.com/breadstick-innovations/m4-breadstick) for campaign updates!
+Our Pre-Launch page is now live! Be sure to [Subscribe](https://www.crowdsupply.com/breadstick-innovations/m4-breadstick) for campaign updates!
 
 ## [2021 Hackaday Prize](https://hackaday.io/project/180819-m4-breadstick)
 Challenge 3: Reimagine Supportive Tech
