@@ -6,6 +6,18 @@ Our Pre-Launch page is now live! Be sure to [Subscribe](https://www.crowdsupply.
 
 ## [2021 Hackaday Prize](https://hackaday.io/project/180819-m4-breadstick)
 Challenge 3: Reimagine Supportive Tech
+* Rules
+  * "Challenge Round 3 (Reimagine Supportive Tech): Build a hardware solution that
+makes electronic devices more accessible to people with varying ranges of
+mobility, or that makes engineering education more accessible. Your solution
+should make it easier for others to build electronics or make electronics devices
+more accessible, modular, hackable, or affordable." -[Official Rules PDF](https://cdn.hackaday.io/files/1795337681139872/2021%20Hackaday.Prize.Official.Rules.pdf)
+* Challenge
+    * Development boards are critically important tools for learning to code. They allow students to experience coding as something more than text on a screen; connecting computer logic to the physical world, where electronics, mechanics, physics, chemistry, and biology can be explored through sensor, actuators, robotics, and more! 
+  * There are a lot of development boards availble today but none seem to be built with the breadboard in mind. All dev-boards can sit next to a breadboard and be connected via wires but, if you connect more than a few, things quickly become messy. Some dev-boards are "bread-board compatible" but all that phrase has really meant in the past is, "If you're willing to sacrifice the top section of your breadboard, you can anchor your dev-board to it and enjoy the same mess in less space."
+  * Even if the the underlying circuits you connect your dev-board to are simple, with each additional jumper-wire comes additional obsfucation that creates a sense of "artificial-complexity" in otherwise simple projects; this gets in the way of both teaching and learning.
+* Solution
+  * Create a dev-board that contains all of those unavoidable jumper-wires, distributing I/O pins across the breadboard, so that the number, length, crossings, and density of jumper-wires is kept to a minimum. This makes circuits easily viewable from a top-down perspective and enhances the teaching and learning experience of users.
 
 ## Adafruit Attribution
 The M4-Breadstick is an adaptation of Adafruit's ItsyBitsy M4 Express; details about their board can be found [here](https://github.com/adafruit/Adafruit-ItsyBitsy-M4-Express-PCB).
