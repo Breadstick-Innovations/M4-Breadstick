@@ -1,16 +1,441 @@
 EESchema Schematic File Version 4
 EELAYER 30 0
 EELAYER END
-$Descr A4 11693 8268
+$Descr USLetter 11000 8500
 encoding utf-8
 Sheet 2 3
-Title ""
-Date ""
-Rev ""
-Comp ""
-Comment1 ""
-Comment2 ""
+Title "M4-Breadstick"
+Date "2021-08-03"
+Rev "v1"
+Comp "Breadstick Innovations"
+Comment1 "Designer: Michael Rangen"
+Comment2 "Forked From: Adafruit ItsyBitsy M4 Express"
 Comment3 ""
 Comment4 ""
 $EndDescr
+$Comp
+L Device:C C?
+U 1 1 62235BB3
+P 6450 3600
+AR Path="/62235BB3" Ref="C?"  Part="1" 
+AR Path="/61C7A9A7/62235BB3" Ref="C2"  Part="1" 
+F 0 "C2" H 6500 3700 50  0000 L CNN
+F 1 "10uF_6.3V_0402_302010053" V 6300 2850 50  0000 L CNN
+F 2 "OPL_Capacitor:C0402" H 6488 3450 50  0001 C CNN
+F 3 "~" H 6450 3600 50  0001 C CNN
+	1    6450 3600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C?
+U 1 1 62235BB9
+P 6850 3600
+AR Path="/62235BB9" Ref="C?"  Part="1" 
+AR Path="/61C7A9A7/62235BB9" Ref="C3"  Part="1" 
+F 0 "C3" H 6850 3700 50  0000 L CNN
+F 1 "1uF_6.3V_0402_302010003" V 6700 2900 50  0000 L CNN
+F 2 "OPL_Capacitor:C0402" H 6888 3450 50  0001 C CNN
+F 3 "~" H 6850 3600 50  0001 C CNN
+	1    6850 3600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C?
+U 1 1 62235BBF
+P 7200 3600
+AR Path="/62235BBF" Ref="C?"  Part="1" 
+AR Path="/61C7A9A7/62235BBF" Ref="C4"  Part="1" 
+F 0 "C4" H 7200 3700 50  0000 L CNN
+F 1 "1uF_6.3V_0402_302010003" V 7050 2900 50  0000 L CNN
+F 2 "OPL_Capacitor:C0402" H 7238 3450 50  0001 C CNN
+F 3 "~" H 7200 3600 50  0001 C CNN
+	1    7200 3600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7200 3200 7200 3450
+Wire Wire Line
+	6850 3450 6850 3200
+Connection ~ 6850 3200
+Wire Wire Line
+	6850 3200 7200 3200
+Wire Wire Line
+	6450 3450 6450 3200
+$Comp
+L M4-Breadstick-rescue:GND-Adafruit_ItsyBitsy_M4-eagle-import #GND?
+U 1 1 62235BD1
+P 6450 3850
+AR Path="/62235BD1" Ref="#GND?"  Part="1" 
+AR Path="/61C7A9A7/62235BD1" Ref="#GND012"  Part="1" 
+F 0 "#GND012" H 6450 3850 50  0001 C CNN
+F 1 "GND" H 6350 3750 59  0000 L BNN
+F 2 "" H 6450 3850 50  0001 C CNN
+F 3 "" H 6450 3850 50  0001 C CNN
+	1    6450 3850
+	-1   0    0    -1  
+$EndComp
+$Comp
+L M4-Breadstick-rescue:GND-Adafruit_ItsyBitsy_M4-eagle-import #GND?
+U 1 1 62235BD7
+P 6850 3850
+AR Path="/62235BD7" Ref="#GND?"  Part="1" 
+AR Path="/61C7A9A7/62235BD7" Ref="#GND013"  Part="1" 
+F 0 "#GND013" H 6850 3850 50  0001 C CNN
+F 1 "GND" H 6750 3750 59  0000 L BNN
+F 2 "" H 6850 3850 50  0001 C CNN
+F 3 "" H 6850 3850 50  0001 C CNN
+	1    6850 3850
+	-1   0    0    -1  
+$EndComp
+$Comp
+L M4-Breadstick-rescue:GND-Adafruit_ItsyBitsy_M4-eagle-import #GND?
+U 1 1 62235BDD
+P 7200 3850
+AR Path="/62235BDD" Ref="#GND?"  Part="1" 
+AR Path="/61C7A9A7/62235BDD" Ref="#GND014"  Part="1" 
+F 0 "#GND014" H 7200 3850 50  0001 C CNN
+F 1 "GND" H 7100 3750 59  0000 L BNN
+F 2 "" H 7200 3850 50  0001 C CNN
+F 3 "" H 7200 3850 50  0001 C CNN
+	1    7200 3850
+	-1   0    0    -1  
+$EndComp
+Connection ~ 7200 3200
+$Comp
+L M4-Breadstick-rescue:GND-Adafruit_ItsyBitsy_M4-eagle-import #GND?
+U 1 1 62235BF3
+P 5000 3850
+AR Path="/62235BF3" Ref="#GND?"  Part="1" 
+AR Path="/61C7A9A7/62235BF3" Ref="#GND04"  Part="1" 
+F 0 "#GND04" H 5000 3850 50  0001 C CNN
+F 1 "GND" H 4900 3750 59  0000 L BNN
+F 2 "" H 5000 3850 50  0001 C CNN
+F 3 "" H 5000 3850 50  0001 C CNN
+	1    5000 3850
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	5000 3450 5000 3200
+Wire Wire Line
+	4300 3600 4450 3600
+Wire Wire Line
+	4300 3200 4450 3200
+$Comp
+L M4-Breadstick-rescue:VBUS-Adafruit_ItsyBitsy_M4-eagle-import #U$?
+U 1 1 62235BFC
+P 3800 2950
+AR Path="/62235BFC" Ref="#U$?"  Part="1" 
+AR Path="/61C7A9A7/62235BFC" Ref="#U$027"  Part="1" 
+F 0 "#U$027" H 3800 2950 50  0001 C CNN
+F 1 "VBUS" H 3700 2950 42  0000 L BNN
+F 2 "" H 3800 2950 50  0001 C CNN
+F 3 "" H 3800 2950 50  0001 C CNN
+	1    3800 2950
+	1    0    0    -1  
+$EndComp
+$Comp
+L M4-Breadstick-rescue:VBAT-Adafruit_ItsyBitsy_M4-eagle-import #U$?
+U 1 1 62235C02
+P 3800 3500
+AR Path="/62235C02" Ref="#U$?"  Part="1" 
+AR Path="/61C7A9A7/62235C02" Ref="#U$028"  Part="1" 
+F 0 "#U$028" H 3800 3500 50  0001 C CNN
+F 1 "VBAT" H 3740 3540 42  0000 L BNN
+F 2 "" H 3800 3500 50  0001 C CNN
+F 3 "" H 3800 3500 50  0001 C CNN
+	1    3800 3500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3800 3600 3950 3600
+$Comp
+L M4-Breadstick-rescue:+3V3-Adafruit_ItsyBitsy_M4-eagle-import #+3V?
+U 1 1 62235C09
+P 6650 2850
+AR Path="/62235C09" Ref="#+3V?"  Part="1" 
+AR Path="/61C7A9A7/62235C09" Ref="#+3V05"  Part="1" 
+F 0 "#+3V05" H 6650 2850 50  0001 C CNN
+F 1 "+3V3" H 6500 2850 59  0000 L BNN
+F 2 "" H 6650 2850 50  0001 C CNN
+F 3 "" H 6650 2850 50  0001 C CNN
+	1    6650 2850
+	1    0    0    -1  
+$EndComp
+Connection ~ 3950 3600
+Wire Wire Line
+	3950 3600 4000 3600
+Wire Wire Line
+	3950 3200 4000 3200
+$Comp
+L Connector:Conn_01x01_Male J?
+U 1 1 62235C14
+P 7000 3100
+AR Path="/62235C14" Ref="J?"  Part="1" 
+AR Path="/61C7A9A7/62235C14" Ref="J30"  Part="1" 
+F 0 "J30" H 7050 3050 50  0000 R CNN
+F 1 "3.3V" H 6950 3100 50  0000 R CNN
+F 2 "Pin_Headers:Pin_Header_Straight_1x01_Pitch2.54mm" H 7000 3100 50  0001 C CNN
+F 3 "~" H 7000 3100 50  0001 C CNN
+	1    7000 3100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x01_Male J?
+U 1 1 62235C1A
+P 7000 3000
+AR Path="/62235C1A" Ref="J?"  Part="1" 
+AR Path="/61C7A9A7/62235C1A" Ref="J29"  Part="1" 
+F 0 "J29" H 7050 3050 50  0000 R CNN
+F 1 "3.3V" H 6950 3000 50  0000 R CNN
+F 2 "Pin_Headers:Pin_Header_Straight_1x01_Pitch2.54mm" H 7000 3000 50  0001 C CNN
+F 3 "~" H 7000 3000 50  0001 C CNN
+	1    7000 3000
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7200 3000 7200 3100
+Wire Wire Line
+	7200 3100 7200 3200
+Connection ~ 7200 3100
+$Comp
+L Connector:Conn_01x01_Male J?
+U 1 1 62235C23
+P 3750 3200
+AR Path="/62235C23" Ref="J?"  Part="1" 
+AR Path="/61C7A9A7/62235C23" Ref="J21"  Part="1" 
+F 0 "J21" H 3600 3300 50  0000 R CNN
+F 1 "VBUS" H 3700 3200 50  0000 R CNN
+F 2 "Pin_Headers:Pin_Header_Straight_1x01_Pitch2.54mm" H 3750 3200 50  0001 C CNN
+F 3 "~" H 3750 3200 50  0001 C CNN
+	1    3750 3200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x01_Male J?
+U 1 1 62235C29
+P 3750 3750
+AR Path="/62235C29" Ref="J?"  Part="1" 
+AR Path="/61C7A9A7/62235C29" Ref="J27"  Part="1" 
+F 0 "J27" H 3600 3850 50  0000 R CNN
+F 1 "VBAT" H 3700 3750 50  0000 R CNN
+F 2 "Pin_Headers:Pin_Header_Straight_1x01_Pitch2.54mm" H 3750 3750 50  0001 C CNN
+F 3 "~" H 3750 3750 50  0001 C CNN
+	1    3750 3750
+	1    0    0    -1  
+$EndComp
+$Comp
+L M4-Breadstick-rescue:NCP1117ST33T3G-MichaelRangen_SchematicSymbols U?
+U 1 1 62235C2F
+P 5600 3200
+AR Path="/62235C2F" Ref="U?"  Part="1" 
+AR Path="/61C7A9A7/62235C2F" Ref="U3"  Part="1" 
+F 0 "U3" H 5625 3515 50  0000 C CNN
+F 1 "NCP1117ST33T3G" H 5625 3424 50  0000 C CNN
+F 2 "digikey-footprints:SOT-223" H 5600 3200 118 0001 C CNN
+F 3 "" H 5600 3200 118 0001 C CNN
+	1    5600 3200
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5300 3200 5250 3200
+Connection ~ 6450 3200
+$Comp
+L M4-Breadstick-rescue:GND-Adafruit_ItsyBitsy_M4-eagle-import #GND?
+U 1 1 62235C37
+P 5600 3650
+AR Path="/62235C37" Ref="#GND?"  Part="1" 
+AR Path="/61C7A9A7/62235C37" Ref="#GND02"  Part="1" 
+F 0 "#GND02" H 5600 3650 50  0001 C CNN
+F 1 "GND" H 5500 3550 59  0000 L BNN
+F 2 "" H 5600 3650 50  0001 C CNN
+F 3 "" H 5600 3650 50  0001 C CNN
+	1    5600 3650
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	3950 3600 3950 3750
+Wire Wire Line
+	3800 3050 3950 3050
+Wire Wire Line
+	3950 3050 3950 3200
+Connection ~ 3950 3200
+$Comp
+L M4-Breadstick-rescue:SMD-DIODE-SCHOTTKY-20V-1A_SOD-123_-OPL_Discrete_Semiconductor D?
+U 1 1 62235C43
+P 4150 3200
+AR Path="/62235C43" Ref="D?"  Part="1" 
+AR Path="/61C7A9A7/62235C43" Ref="D1"  Part="1" 
+F 0 "D1" H 4150 3454 45  0000 C CNN
+F 1 "SS24FL" H 4150 3370 45  0000 C CNN
+F 2 "OPL_Discrete_Semiconductor:SOD-123" H 4150 3200 50  0001 C CNN
+F 3 "" H 4150 3200 50  0001 C CNN
+F 4 "B5819W" H 4180 3350 20  0001 C CNN "MPN"
+F 5 "304020034" H 4180 3350 20  0001 C CNN "SKU"
+	1    4150 3200
+	1    0    0    -1  
+$EndComp
+$Comp
+L M4-Breadstick-rescue:SMD-DIODE-SCHOTTKY-20V-1A_SOD-123_-OPL_Discrete_Semiconductor D?
+U 1 1 62235C4B
+P 4150 3600
+AR Path="/62235C4B" Ref="D?"  Part="1" 
+AR Path="/61C7A9A7/62235C4B" Ref="D2"  Part="1" 
+F 0 "D2" H 4150 3854 45  0000 C CNN
+F 1 "SS24FL" H 4150 3770 45  0000 C CNN
+F 2 "OPL_Discrete_Semiconductor:SOD-123" H 4150 3600 50  0001 C CNN
+F 3 "" H 4150 3600 50  0001 C CNN
+F 4 "B5819W" H 4180 3750 20  0001 C CNN "MPN"
+F 5 "304020034" H 4180 3750 20  0001 C CNN "SKU"
+	1    4150 3600
+	1    0    0    -1  
+$EndComp
+$Comp
+L M4-Breadstick-rescue:CERAMIC-100UF-6.3V-20%-X5R_1206_-OPL_Capacitor C?
+U 1 1 62235C53
+P 5000 3600
+AR Path="/62235C53" Ref="C?"  Part="1" 
+AR Path="/61C7A9A7/62235C53" Ref="C1"  Part="1" 
+F 0 "C1" H 4850 3650 45  0000 L CNN
+F 1 "CERAMIC-100UF-6.3V-20%-X5R_1206_" H 4650 3500 45  0000 L CNN
+F 2 "OPL_Capacitor:C1206" H 5000 3600 50  0001 C CNN
+F 3 "" H 5000 3600 50  0001 C CNN
+F 4 "GRM31CR60J107ME39L" H 5030 3750 20  0001 C CNN "MPN"
+F 5 "302010183" H 5030 3750 20  0001 C CNN "SKU"
+	1    5000 3600
+	0    1    1    0   
+$EndComp
+$Comp
+L M4-Breadstick-rescue:GND-Adafruit_ItsyBitsy_M4-eagle-import #GND?
+U 1 1 62235C59
+P 6100 3850
+AR Path="/62235C59" Ref="#GND?"  Part="1" 
+AR Path="/61C7A9A7/62235C59" Ref="#GND06"  Part="1" 
+F 0 "#GND06" H 6100 3850 50  0001 C CNN
+F 1 "GND" H 6000 3750 59  0000 L BNN
+F 2 "" H 6100 3850 50  0001 C CNN
+F 3 "" H 6100 3850 50  0001 C CNN
+	1    6100 3850
+	-1   0    0    -1  
+$EndComp
+$Comp
+L M4-Breadstick-rescue:CERAMIC-100UF-6.3V-20%-X5R_1206_-OPL_Capacitor C?
+U 1 1 62235C61
+P 6100 3600
+AR Path="/62235C61" Ref="C?"  Part="1" 
+AR Path="/61C7A9A7/62235C61" Ref="C8"  Part="1" 
+F 0 "C8" V 6000 3600 45  0000 L CNN
+F 1 "CERAMIC-100UF-6.3V-20%-X5R_1206_" H 5750 3450 45  0000 L CNN
+F 2 "OPL_Capacitor:C1206" H 6100 3600 50  0001 C CNN
+F 3 "" H 6100 3600 50  0001 C CNN
+F 4 "GRM31CR60J107ME39L" H 6130 3750 20  0001 C CNN "MPN"
+F 5 "302010183" H 6130 3750 20  0001 C CNN "SKU"
+	1    6100 3600
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	6100 3450 6100 3200
+Wire Wire Line
+	6100 3200 5950 3200
+Wire Wire Line
+	6100 3200 6450 3200
+Connection ~ 6100 3200
+Connection ~ 5000 3200
+$Comp
+L M4-Breadstick-rescue:GND-Adafruit_ItsyBitsy_M4-eagle-import #GND?
+U 1 1 62235C6C
+P 5250 3850
+AR Path="/62235C6C" Ref="#GND?"  Part="1" 
+AR Path="/61C7A9A7/62235C6C" Ref="#GND05"  Part="1" 
+F 0 "#GND05" H 5250 3850 50  0001 C CNN
+F 1 "GND" H 5150 3750 59  0000 L BNN
+F 2 "" H 5250 3850 50  0001 C CNN
+F 3 "" H 5250 3850 50  0001 C CNN
+	1    5250 3850
+	-1   0    0    -1  
+$EndComp
+$Comp
+L M4-Breadstick-rescue:CERAMIC-100UF-6.3V-20%-X5R_1206_-OPL_Capacitor C?
+U 1 1 62235C74
+P 5250 3600
+AR Path="/62235C74" Ref="C?"  Part="1" 
+AR Path="/61C7A9A7/62235C74" Ref="C9"  Part="1" 
+F 0 "C9" H 5100 3650 45  0000 L CNN
+F 1 "CERAMIC-100UF-6.3V-20%-X5R_1206_" H 4900 3500 45  0000 L CNN
+F 2 "OPL_Capacitor:C1206" H 5250 3600 50  0001 C CNN
+F 3 "" H 5250 3600 50  0001 C CNN
+F 4 "GRM31CR60J107ME39L" H 5280 3750 20  0001 C CNN "MPN"
+F 5 "302010183" H 5280 3750 20  0001 C CNN "SKU"
+	1    5250 3600
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	5250 3450 5250 3200
+Connection ~ 5250 3200
+Wire Wire Line
+	4450 3600 4450 3200
+Wire Wire Line
+	4450 3200 4550 3200
+Connection ~ 4450 3200
+$Comp
+L M4-Breadstick-rescue:GND-Adafruit_ItsyBitsy_M4-eagle-import #GND?
+U 1 1 62235C7F
+P 4750 3850
+AR Path="/62235C7F" Ref="#GND?"  Part="1" 
+AR Path="/61C7A9A7/62235C7F" Ref="#GND03"  Part="1" 
+F 0 "#GND03" H 4750 3850 50  0001 C CNN
+F 1 "GND" H 4650 3750 59  0000 L BNN
+F 2 "" H 4750 3850 50  0001 C CNN
+F 3 "" H 4750 3850 50  0001 C CNN
+	1    4750 3850
+	-1   0    0    -1  
+$EndComp
+$Comp
+L M4-Breadstick-rescue:CERAMIC-100UF-6.3V-20%-X5R_1206_-OPL_Capacitor C?
+U 1 1 62235C87
+P 4750 3600
+AR Path="/62235C87" Ref="C?"  Part="1" 
+AR Path="/61C7A9A7/62235C87" Ref="C10"  Part="1" 
+F 0 "C10" H 4600 3650 45  0000 L CNN
+F 1 "CERAMIC-100UF-6.3V-20%-X5R_1206_" H 4400 3500 45  0000 L CNN
+F 2 "OPL_Capacitor:C1206" H 4750 3600 50  0001 C CNN
+F 3 "" H 4750 3600 50  0001 C CNN
+F 4 "GRM31CR60J107ME39L" H 4780 3750 20  0001 C CNN "MPN"
+F 5 "302010183" H 4780 3750 20  0001 C CNN "SKU"
+	1    4750 3600
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	4750 3450 4750 3200
+Connection ~ 4750 3200
+Wire Wire Line
+	4750 3200 5000 3200
+Wire Wire Line
+	4550 2900 4550 3200
+Connection ~ 4550 3200
+Wire Wire Line
+	4550 3200 4750 3200
+Wire Wire Line
+	5000 3200 5250 3200
+$Comp
+L SparkFun-PowerSymbols:5V #SUPPLY?
+U 1 1 62235C96
+P 4550 2900
+AR Path="/62235C96" Ref="#SUPPLY?"  Part="1" 
+AR Path="/61C7A9A7/62235C96" Ref="#SUPPLY026"  Part="1" 
+F 0 "#SUPPLY026" H 4600 2900 45  0001 L BNN
+F 1 "5V" H 4550 3070 45  0000 C CNN
+F 2 "XXX-00000" H 4550 3081 60  0001 C CNN
+F 3 "" H 4550 2900 60  0001 C CNN
+	1    4550 2900
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6450 3200 6650 3200
+Wire Wire Line
+	6650 2950 6650 3200
+Connection ~ 6650 3200
+Wire Wire Line
+	6650 3200 6850 3200
+Wire Wire Line
+	5600 3450 5600 3550
 $EndSCHEMATC

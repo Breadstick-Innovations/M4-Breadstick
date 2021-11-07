@@ -1,4 +1,4 @@
-update=2021-11-07 9:58:26 AM
+update=2021-11-07 12:02:15 PM
 version=1
 last_client=kicad
 [general]
@@ -241,7 +241,7 @@ dPairGap=0.25
 dPairViaGap=0.25
 [schematic_editor]
 version=1
-PageLayoutDescrFile=D:/NextCloud/SharedDocs/JRKiCadLibrarys/Breadstick_Page_Layout.kicad_wks
+PageLayoutDescrFile=D:/NextCloud/SharedDocs/JRKiCadLibrarys/Breadstick_Page_Layout v2.kicad_wks
 PlotDirectoryName=
 SubpartIdSeparator=0
 SubpartFirstId=65
