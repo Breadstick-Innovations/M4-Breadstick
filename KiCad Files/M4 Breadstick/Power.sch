@@ -169,28 +169,28 @@ Wire Wire Line
 $Comp
 L Connector:Conn_01x01_Male J?
 U 1 1 62235C14
-P 7000 3100
+P 7400 3100
 AR Path="/62235C14" Ref="J?"  Part="1" 
 AR Path="/61C7A9A7/62235C14" Ref="J30"  Part="1" 
-F 0 "J30" H 7050 3050 50  0000 R CNN
-F 1 "3.3V" H 6950 3100 50  0000 R CNN
-F 2 "Pin_Headers:Pin_Header_Straight_1x01_Pitch2.54mm" H 7000 3100 50  0001 C CNN
-F 3 "~" H 7000 3100 50  0001 C CNN
-	1    7000 3100
-	1    0    0    -1  
+F 0 "J30" H 7450 3050 50  0000 R CNN
+F 1 "3.3V" H 7350 3100 50  0000 R CNN
+F 2 "Pin_Headers:Pin_Header_Straight_1x01_Pitch2.54mm" H 7400 3100 50  0001 C CNN
+F 3 "~" H 7400 3100 50  0001 C CNN
+	1    7400 3100
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Connector:Conn_01x01_Male J?
 U 1 1 62235C1A
-P 7000 3000
+P 7400 3000
 AR Path="/62235C1A" Ref="J?"  Part="1" 
 AR Path="/61C7A9A7/62235C1A" Ref="J29"  Part="1" 
-F 0 "J29" H 7050 3050 50  0000 R CNN
-F 1 "3.3V" H 6950 3000 50  0000 R CNN
-F 2 "Pin_Headers:Pin_Header_Straight_1x01_Pitch2.54mm" H 7000 3000 50  0001 C CNN
-F 3 "~" H 7000 3000 50  0001 C CNN
-	1    7000 3000
-	1    0    0    -1  
+F 0 "J29" H 7450 3050 50  0000 R CNN
+F 1 "3.3V" H 7350 3000 50  0000 R CNN
+F 2 "Pin_Headers:Pin_Header_Straight_1x01_Pitch2.54mm" H 7400 3000 50  0001 C CNN
+F 3 "~" H 7400 3000 50  0001 C CNN
+	1    7400 3000
+	-1   0    0    -1  
 $EndComp
 Wire Wire Line
 	7200 3000 7200 3100

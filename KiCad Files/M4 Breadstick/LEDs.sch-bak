@@ -216,8 +216,8 @@ L M4-Breadstick-rescue:GND-Adafruit_ItsyBitsy_M4-eagle-import #U$?
 U 1 1 6205B754
 P 3950 2700
 AR Path="/6205B754" Ref="#U$?"  Part="1" 
-AR Path="/61C7DF80/6205B754" Ref="#U$03"  Part="1" 
-F 0 "#U$03" H 3950 2700 50  0001 C CNN
+AR Path="/61C7DF80/6205B754" Ref="#U$0102"  Part="1" 
+F 0 "#U$0102" H 3950 2700 50  0001 C CNN
 F 1 "GND" H 3850 2600 59  0000 L BNN
 F 2 "" H 3950 2700 50  0001 C CNN
 F 3 "" H 3950 2700 50  0001 C CNN
