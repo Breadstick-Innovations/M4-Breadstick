@@ -1,8 +1,8 @@
-# M4-Breadstick
+# M4-Breadstick(retired) → [Raspberry Breadstick](https://github.com/Breadstick-Innovations/Raspberry-Breadstick)
 
 
-## [Crowd Supply Campaign](https://www.crowdsupply.com/breadstick-innovations/m4-breadstick)
-Our Pre-Launch page is now live! Be sure to [Subscribe](https://www.crowdsupply.com/breadstick-innovations/m4-breadstick) for campaign updates!
+## [Raspberry Breadstick Crowd Supply Campaign](https://www.crowdsupply.com/breadstick-innovations/raspberry-breadstick)
+Be sure to [Subscribe!](https://www.crowdsupply.com/breadstick-innovations/raspberry-breadstick)
 
 ## [Hackaday IO](https://hackaday.io/project/180819-m4-breadstick)
 
